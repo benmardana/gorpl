@@ -1,0 +1,16 @@
+{
+  "name": "gorpl",
+  "version": "1.0.0",
+  "description": "Generic Obvious Role Playing Language",
+  "homepage": "https://github.com/benmcgarvey/gorpl",
+  "repository": {
+    "type": "git",
+    "url": "github:benmcgarvey/gorpl"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benmcgarvey",
+  "license": "ISC"
+}
